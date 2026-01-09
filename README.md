@@ -7,7 +7,7 @@
 
 ## 구성
 - Python 연습 
-- HTML 연습 
+- HTML/CSS 연습 
 - 개인 제작 팬게임 (Electron EXE)
 
 ## 목적

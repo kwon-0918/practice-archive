@@ -1,4 +1,4 @@
-# 🎮 하로하_게임 exe
+# haroha_game exe
 HTML + Electron으로 만들어진 팬게임입니다.
 
 Windows exe 빌드가 가능합니다.

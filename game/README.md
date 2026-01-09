@@ -1,0 +1,6 @@
+# 🎮 하로하_게임 exe
+HTML + Electron으로 만들어진 팬게임입니다.
+
+Windows exe 빌드가 가능합니다.
+
+dist 폴더에는 빌드가 생성됩니다.
